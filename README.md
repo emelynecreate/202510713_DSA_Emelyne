@@ -23,4 +23,3 @@ algrithm and programming concepts
 
 Author
 Ihirwe Emelyne
-GitHub: https://github.com/cppwithEmelyne
